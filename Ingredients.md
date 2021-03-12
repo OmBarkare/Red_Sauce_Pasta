@@ -7,4 +7,3 @@
 5. Pasta
 6. Garlic
 7. Oregano
-8. Pepper
